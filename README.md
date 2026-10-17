@@ -58,12 +58,6 @@ Hello, I'm Gunther. I'm an Information Technology student from Pangasinan, Phili
 
 ---
 
-## Featured projects
-
-| Project | Description | Stack | Status |
-| --- | --- | --- | --- |
-| **[Glee Portfolio Website](https://devglee.vercel.app/)** | Interactive portfolio with a Ghost of Tsushima theme, responsive design, light and dark modes, custom modals and dynamic components. | HTML5, CSS3, JavaScript | Live |
-
 
 ## Get in touch
 
