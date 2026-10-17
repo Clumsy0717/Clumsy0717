@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.jpg" alt="Banner" width="100%" />
+
 # Gunther Lee Ordinario
 
 **Information Technology student · Web Developer**
@@ -16,6 +18,8 @@
 
 ## About me
 
+<img align="right" src="assets/dancing-cat.gif" alt="A cat dancing" width="130" />
+
 Hello, I'm Gunther. I'm an Information Technology student from Pangasinan, Philippines, driven to craft efficient and visually striking web solutions. I combine technical discipline with sharp frontend execution, and I enjoy working on clean code, seamless user experience and solid backend logic.
 
 - 🎓 Studying **BS Information Technology** at the University of Eastern Pangasinan
@@ -23,9 +27,13 @@ Hello, I'm Gunther. I'm an Information Technology student from Pangasinan, Phili
 - 🌐 My portfolio: **[devglee.vercel.app](https://devglee.vercel.app/)**
 - 💼 Open for work and collaboration
 
+<br clear="all" />
+
 ---
 
 ## Tech stack
+
+<img align="right" src="assets/coding-cat.jpg" alt="A cat sitting by a laptop with code on the screen" width="200" />
 
 **Frontend**
 
@@ -45,6 +53,8 @@ Hello, I'm Gunther. I'm an Information Technology student from Pangasinan, Phili
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<br clear="all" />
 
 ---
 
@@ -75,6 +85,10 @@ These cards come from a free third-party service and can occasionally be slow or
 -->
 
 <div align="center">
+
+<img src="assets/good-things-cat.jpg" alt="A cat sticking its tongue out beside a poster that says good things take time" width="220" />
+
+*Good things take time.*
 
 ⭐ Thanks for stopping by.
 
